@@ -2,6 +2,8 @@
 
 PowerShell-Skript zur Überwachung der Erreichbarkeit von Servern und IP-Adressen via Ping.
 
+> Hinweis: Dieses Projekt ist ein älteres Schulprojekt und dient zur Archivierung sowie als Referenz für PowerShell-Grundlagen.
+
 ## 📘 Beschreibung
 
 Dieses Skript wurde im Rahmen eines Schulprojekts (Modul 122) erstellt. Es dient dazu, eine Liste von IP-Adressen oder Hostnamen automatisiert per `ping` zu überprüfen. Die Ergebnisse werden übersichtlich in eine Logdatei geschrieben – inkl. Fehlerhinweisen und MessageBox bei Ausfällen.
@@ -41,7 +43,6 @@ PowerShell-Skript zur Überwachung der Erreichbarkeit von Servern und IP-Adresse
 
 ---
 
-> Hinweis: Dieses Projekt ist ein älteres Schulprojekt und dient zur Archivierung sowie als Referenz für PowerShell-Grundlagen.
 
 
 
